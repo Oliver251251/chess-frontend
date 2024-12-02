@@ -2,7 +2,7 @@
   "name": "chess",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Oliver251251/chess-frontend.git",
+  "homepage": "https://Oliver251251.github.io/chess-frontend",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  
+
   "eslintConfig": {
     "extends": [
       "react-app",
